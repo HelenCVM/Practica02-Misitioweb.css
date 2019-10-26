@@ -1,0 +1,60 @@
+@charset "UTF-8";
+
+
+body {
+	margin: 0 auto;
+	width: 300%;
+	max-width: 1300px;
+	min-width: 940px;
+}
+
+body > header {
+	margin: 10px;
+	width: 96.4%;
+	overflow: hidden;
+	padding: 10px;
+	width:1300px;
+}
+
+body > nav {
+	width: 15%;
+	float: left;
+	margin: 0 0 0 1.0%;
+	margin-top:20px;
+}
+
+body > article#about_tss {
+	width: 60%;
+	float: left;
+	margin: 0 1.0% 0 1.0%;
+	margin-top:20px;
+}
+
+
+body > aside {
+	width: 20%;
+	float: left;
+	margin: 0 0 0 0;
+	margin-top:20px;
+
+}
+
+body > article#about_tss img {
+	float: right;
+	width: 40%;
+	margin: 0px 0 10px 10px;
+}
+
+article.syllabus {
+    float: left;
+	width: 74.5%;
+	margin: 0 4% 0 0%;
+}
+
+
+body > footer {
+	width: 100%;
+	clear: left;
+	margin-top:-5px;
+	
+}
