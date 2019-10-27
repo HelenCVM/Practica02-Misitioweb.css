@@ -1,20 +1,6 @@
-@charset "utf-8"
-/*
-   New Perspectives on HTML5 and CSS3, 7th Edition
-   Tutorial 2
-   Tutorial Case
-   
-   TSS Typographic Style Sheet
-   Author: 
-   Date:   
-   
-   Filename: tss_styles.css
-
-*/
+@charset "UTF-8";
 
 
-
-/* HTML and Body Styles */
 html
 {
    background-color: #c70039;
@@ -75,7 +61,7 @@ img.foto4 {
 }
 
 img.foto5 {
-    width: 300x;
+    width: 300px;
     height: 300px;
 }
 
@@ -105,9 +91,9 @@ img.imalo {
 h3#lo{
    border-top-style: solid;
    width: 200%;
-   margin:-2 auto;
-   height: -10px;
-   border-width: -200%;
+   margin:0 auto;
+   height: 10px;
+   border-width: thin;
 
 }
 
@@ -154,8 +140,7 @@ article.syllpro h1{
    color:  #ff5733;
    background-color:#581845;
    font-size: 2.2em;
-   line-height: normal;line-height: ;
-   line-height: 1.2em;
+   line-height: normal;
    text-align: center;
 }
 article.syll h2{
@@ -210,7 +195,6 @@ nav#navepro h1 {
 article.syllservi h1,h2 {
    color:#ff5733;
    background-color: #900C3F;
-   border-inline-start-color: #ff5733;
    flood-color: #ff5733;
    min-height: min-content;
    max-height: max-content;
@@ -232,10 +216,10 @@ footer.footerservi address {
 }
 aside#asideservi h3{
    background-color: #900C3F;
-   text-shadow: #ffc305;
+   text-shadow:0.2px 0.2px #ffc305;
    letter-spacing: 0.7em;
-   word-spacing: 0.2em;|
-   margin-left: 0.3em;
+   word-spacing: 0.2em;
+   margin-left: 0.3mm;
    white-space:nowrap;
    text-transform:none;
 }
@@ -244,7 +228,7 @@ aside#asideservi h3{
 nav#navser h1 {
    background-color:#ffc305;
    color:  #ff5733;
-   font-weight: 100px;
+   font-weight: normal;
 }
 
 nav#navser ul{
