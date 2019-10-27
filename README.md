@@ -1945,6 +1945,11 @@ HelenCVM
 
 
 
+CONCLUSIONES:
+Con la realización de esta práctica pude profundizar en los temas HTML Y CSS.Ademas de ver las reglas CSS y como se aplican a las diferentes etiquetas.
+
+RECOMENDACIONES:
+Utilizar W3school para poder hacer ejercicios y ver cómo funcionan las diferentes reglas.
 
 
 
